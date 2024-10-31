@@ -1,0 +1,58 @@
+PLAIN
+END
+ENDREP
+id: 0-1.0.r12/17
+type: dir
+pred: 0-1.0.r11/1322
+count: 8
+text: 12 0 4 4 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /trunk
+copyroot: 0 /
+
+PLAIN
+K 16
+amber-alerts.php
+V 18
+file 0-4.0.r4/1844
+K 8
+branches
+V 14
+dir 0-3.0.r3/0
+K 25
+radio-amber-alerts-ticker
+V 17
+dir 4-4.0.r4/2104
+K 10
+readme.txt
+V 18
+file 5-4.0.r4/2190
+K 21
+subversion.tigris.org
+V 17
+dir 3-4.0.r4/2022
+K 4
+tags
+V 14
+dir 0-2.0.r2/0
+K 5
+trunk
+V 16
+dir 0-1.0.r12/17
+K 6
+ts.php
+V 18
+file 7-4.0.r4/2364
+END
+ENDREP
+id: 0.0.r12/487
+type: dir
+pred: 0.0.r11/1799
+count: 12
+text: 12 151 323 323 4c072fa5aef5b958b0decf0d8c4ffeb6
+cpath: /
+copyroot: 0 /
+
+1-11.0.r11/1101 delete-dir false false /trunk/radio-amber-alerts-ticker
+
+
+487 620
